@@ -1,0 +1,4 @@
+project_id = "ai-lead-rescue"
+
+[functions.chat-webhook]
+verify_jwt = false
